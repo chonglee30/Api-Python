@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Pipenv (uncomment below only if you do not want Pipenv files tracked)
+# Pipfile
+# Pipfile.lock
+
+# Environments & secrets
+.env
+.venv/
+venv/
